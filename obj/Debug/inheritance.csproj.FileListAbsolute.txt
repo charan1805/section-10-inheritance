@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\bin\Debug\inheritance.exe.config
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\bin\Debug\inheritance.exe
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\bin\Debug\inheritance.pdb
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\obj\Debug\inheritance.exe
+E:\my details\personal\c sharp\ assigned projects\section10\inheritance\obj\Debug\inheritance.pdb
